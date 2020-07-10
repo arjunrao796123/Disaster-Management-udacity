@@ -18,7 +18,6 @@ SQLlite Database Libraqries: SQLalchemy
 Model Loading and Saving Library: Pickle
 Web App and Data Visualization: Flask, Plotly
 
-![Example](image_example.PNG)
 
 
 How to run the program is in the workspace folder readme.
@@ -30,3 +29,6 @@ License: MIT
 Acknowledgements
 Udacity for providing an amazing Data Science Nanodegree Program
 Figure Eight for providing the relevant dataset to train the model
+
+![Example](image_example.PNG)
+
