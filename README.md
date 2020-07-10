@@ -18,8 +18,8 @@ SQLlite Database Libraqries: SQLalchemy
 Model Loading and Saving Library: Pickle
 Web App and Data Visualization: Flask, Plotly
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Example](image_example.png)
+
 
 How to run the program is in the workspace folder readme.
 
